@@ -1,2 +1,1 @@
-cdddd
-s
+这是effective的读书笔记
